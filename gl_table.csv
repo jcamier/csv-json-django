@@ -1,0 +1,286 @@
+gl_acct,gl_desc
+5000-000,Cogs - Food
+5005-000,Cogs - Seafood - Fish
+5005-013,Cogs - Seafood - Fish
+5005-150,Cogs - Seafood - Fish
+5005-151,Cogs - Seafood - Fish
+5005-152,Cogs - Seafood - Fish
+5005-153,Cogs - Seafood - Fish
+5010-000,Cogs - Seafood - Shell
+5010-013,Cogs - Seafood - Shell
+5010-150,Cogs - Seafood - Shell
+5010-151,Cogs - Seafood - Shell
+5010-152,Cogs - Seafood - Shell
+5010-153,Cogs - Seafood - Shell
+5015-000,Cogs - Poultry - Chicken
+5015-013,Cogs - Poultry - Chicken
+5015-150,Cogs - Poultry - Chicken
+5015-151,Cogs - Poultry - Chicken
+5015-152,Cogs - Poultry - Chicken
+5015-153,Cogs - Poultry - Chicken
+5016-000,Cogs - Poultry - Game
+5016-150,Cogs - Poultry - Game
+5016-151,Cogs - Poultry - Game
+5016-152,Cogs - Poultry - Game
+5016-153,Cogs - Poultry - Game
+5020-000,Cogs - Meat - Beef
+5020-013,Cogs - Meat - Beef
+5020-150,Cogs - Meat - Beef
+5020-151,Cogs - Meat - Beef
+5020-152,Cogs - Meat - Beef
+5020-153,Cogs - Meat - Beef
+5021-000,Cogs - Meat - Game
+5021-150,Cogs - Meat - Game
+5021-151,Cogs - Meat - Game
+5021-152,Cogs - Meat - Game
+5021-153,Cogs - Meat - Game
+5025-000,Cogs - Meat - Veal
+5025-150,Cogs - Meat - Veal
+5025-151,Cogs - Meat - Veal
+5025-152,Cogs - Meat - Veal
+5025-153,Cogs - Meat - Veal
+5030-000,Cogs - Meat - Pork
+5030-013,Cogs - Meat - Pork
+5030-150,Cogs - Meat - Pork
+5030-151,Cogs - Meat - Pork
+5030-152,Cogs - Meat - Pork
+5030-153,Cogs - Meat - Pork
+5035-000,Cogs - Meat - Lamb
+5035-150,Cogs - Meat - Lamb
+5035-151,Cogs - Meat - Lamb
+5035-152,Cogs - Meat - Lamb
+5035-153,Cogs - Meat - Lamb
+5040-000,Cogs - Produce - Fresh
+5040-013,Cogs - Produce - Fresh
+5040-150,Cogs - Produce - Fresh
+5040-151,Cogs - Produce - Fresh
+5040-152,Cogs - Produce - Fresh
+5040-153,Cogs - Produce - Fresh
+5041-000,Cogs - Produce - Frozen
+5041-013,Cogs - Produce - Frozen
+5041-150,Cogs - Produce - Frozen
+5041-151,Cogs - Produce - Frozen
+5041-152,Cogs - Produce - Frozen
+5041-153,Cogs - Produce - Frozen
+5042-000,Cogs - Produce - Dried
+5042-013,Cogs - Produce - Dried
+5042-150,Cogs - Produce - Dried
+5042-151,Cogs - Produce - Dried
+5042-152,Cogs - Produce - Dried
+5042-153,Cogs - Produce - Dried
+5043-000,Cogs - Produce - Fresh Truffles
+5043-150,Cogs - Produce - Fresh Truffles
+5043-151,Cogs - Produce - Fresh Truffles
+5043-152,Cogs - Produce - Fresh Truffles
+5043-153,Cogs - Produce - Fresh Truffles
+5045-000,Cogs - Dry Goods
+5045-013,Cogs - Dry Goods
+5045-150,Cogs - Dry Goods
+5045-151,Cogs - Dry Goods
+5045-152,Cogs - Dry Goods
+5045-153,Cogs - Dry Goods
+5050-000,Cogs - Dairy
+5050-013,Cogs - Dairy
+5050-150,Cogs - Dairy
+5050-151,Cogs - Dairy
+5050-152,Cogs - Dairy
+5050-153,Cogs - Dairy
+5055-000,Cogs - Frozen
+5055-013,Cogs - Frozen
+5055-150,Cogs - Frozen
+5055-151,Cogs - Frozen
+5055-152,Cogs - Frozen
+5055-153,Cogs - Frozen
+5060-000,Cogs - Bakery - Bread
+5060-013,Cogs - Bakery - Bread
+5060-150,Cogs - Bakery - Bread
+5060-151,Cogs - Bakery - Bread
+5060-152,Cogs - Bakery - Bread
+5060-153,Cogs - Bakery - Bread
+5065-000,Cogs - Bakery - Dessert
+5065-013,Cogs - Bakery - Dessert
+5065-150,Cogs - Bakery - Dessert
+5065-151,Cogs - Bakery - Dessert
+5065-152,Cogs - Bakery - Dessert
+5065-153,Cogs - Bakery - Dessert
+5070-000,Cogs - Cheese
+5070-013,Cogs - Cheese
+5070-150,Cogs - Cheese
+5070-151,Cogs - Cheese
+5070-152,Cogs - Cheese
+5070-153,Cogs - Cheese
+5075-000,Cogs - Kitchen Liquor
+5075-013,Cogs - Kitchen Liquor
+5075-150,Cogs - Kitchen Liquor
+5075-151,Cogs - Kitchen Liquor
+5075-152,Cogs - Kitchen Liquor
+5075-153,Cogs - Kitchen Liquor
+5076-000,Cogs - Kitchen Wine
+5076-013,Cogs - Kitchen Wine
+5076-150,Cogs - Kitchen Wine
+5076-151,Cogs - Kitchen Wine
+5076-152,Cogs - Kitchen Wine
+5076-153,Cogs - Kitchen Wine
+5100-000,Cogs - Prepackaged Frozen Products
+5100-150,Cogs - Prepackaged Frozen Products
+5100-151,Cogs - Prepackaged Frozen Products
+5100-152,Cogs - Prepackaged Frozen Products
+5100-153,Cogs - Prepackaged Frozen Products
+5105-000,Cogs - Prepared Food Costs - Cafe
+5105-150,Cogs - Prepared Food Costs - Cafe
+5105-151,Cogs - Prepared Food Costs - Cafe
+5105-152,Cogs - Prepared Food Costs - Cafe
+5105-153,Cogs - Prepared Food Costs - Cafe
+5106-000,Cogs - Prepared Foods - FF/Brunch
+5106-150,Cogs - Prepared Foods - FF/Brunch
+5106-151,Cogs - Prepared Foods - FF/Brunch
+5106-152,Cogs - Prepared Foods - FF/Brunch
+5106-153,Cogs - Prepared Foods - FF/Brunch
+5107-000,Cogs - Prepacked Food
+5107-150,Cogs - Prepacked Food
+5107-151,Cogs - Prepacked Food
+5107-152,Cogs - Prepacked Food
+5107-153,Cogs - Prepacked Food
+5110-000,Cogs - Prepackaged Food - Cafe
+5110-150,Cogs - Prepackaged Food - Cafe
+5110-151,Cogs - Prepackaged Food - Cafe
+5110-152,Cogs - Prepackaged Food - Cafe
+5110-153,Cogs - Prepackaged Food - Cafe
+5115-000,Cogs - DK Catering
+5115-150,Cogs - DK Catering
+5115-151,Cogs - DK Catering
+5115-152,Cogs - DK Catering
+5115-153,Cogs - DK Catering
+5120-000,Cogs - Artisan Catering
+5120-150,Cogs - Artisan Catering
+5120-151,Cogs - Artisan Catering
+5120-152,Cogs - Artisan Catering
+5120-153,Cogs - Artisan Catering
+5125-000,Cogs - GrabnGo Food
+5125-150,Cogs - GrabnGo Food
+5125-151,Cogs - GrabnGo Food
+5125-152,Cogs - GrabnGo Food
+5125-153,Cogs - GrabnGo Food
+5127-000,Cogs - GrabnGo Beverage
+5127-150,Cogs - GrabnGo Beverage
+5127-151,Cogs - GrabnGo Beverage
+5127-152,Cogs - GrabnGo Beverage
+5127-153,Cogs - GrabnGo Beverage
+5150-000,Cogs - Other Food Costs
+5150-013,Cogs - Other Food Costs
+5150-150,Cogs - Other Food Costs
+5150-151,Cogs - Other Food Costs
+5150-152,Cogs - Other Food Costs
+5150-153,Cogs - Other Food Costs
+5200-000,Cogs - Comp - Family Meal Allow
+5200-013,Cogs - Comp - Family Meal Allow
+5200-150,Cogs - Comp - Family Meal Allow
+5200-151,Cogs - Comp - Family Meal Allow
+5200-152,Cogs - Comp - Family Meal Allow
+5200-153,Cogs - Comp - Family Meal Allow
+5210-000,Cogs - Comp - POS Food
+5210-013,Cogs - Comp - POS Food
+5210-150,Cogs - Comp - POS Food
+5210-151,Cogs - Comp - POS Food
+5210-152,Cogs - Comp - POS Food
+5210-153,Cogs - Comp - POS Food
+5220-000,Cogs - Comp - Food - Cafe
+5220-150,Cogs - Comp - Food - Cafe
+5220-151,Cogs - Comp - Food - Cafe
+5220-152,Cogs - Comp - Food - Cafe
+5220-153,Cogs - Comp - Food - Cafe
+5400-000,Cogs - Comp - Promo Functions
+5400-013,Cogs - Comp - Promo Functions
+5400-150,Cogs - Comp - Promo Functions
+5400-151,Cogs - Comp - Promo Functions
+5400-152,Cogs - Comp - Promo Functions
+5400-153,Cogs - Comp - Promo Functions
+5500-000,Cogs - Liquor
+5500-013,Cogs - Liquor
+5500-150,Cogs - Liquor
+5500-151,Cogs - Liquor
+5500-152,Cogs - Liquor
+5500-153,Cogs - Liquor
+5501-000,Cogs - Liquor - FF Brunch
+5501-150,Cogs - Liquor - FF Brunch
+5501-151,Cogs - Liquor - FF Brunch
+5501-152,Cogs - Liquor - FF Brunch
+5501-153,Cogs - Liquor - FF Brunch
+5510-000,Cogs - Beer
+5510-013,Cogs - Beer
+5510-150,Cogs - Beer
+5510-151,Cogs - Beer
+5510-152,Cogs - Beer
+5510-153,Cogs - Beer
+5520-000,Cogs - Beer - Cafe
+5520-150,Cogs - Beer - Cafe
+5520-151,Cogs - Beer - Cafe
+5520-152,Cogs - Beer - Cafe
+5520-153,Cogs - Beer - Cafe
+5530-000,Cogs - Wine
+5530-013,Cogs - Wine
+5530-150,Cogs - Wine
+5530-151,Cogs - Wine
+5530-152,Cogs - Wine
+5530-153,Cogs - Wine
+5540-000,Cogs - Wine - Cafe
+5540-150,Cogs - Wine - Cafe
+5540-151,Cogs - Wine - Cafe
+5540-152,Cogs - Wine - Cafe
+5540-153,Cogs - Wine - Cafe
+5600-000,Cogs - Soft Drinks
+5600-013,Cogs - Soft Drinks
+5600-150,Cogs - Soft Drinks
+5600-151,Cogs - Soft Drinks
+5600-152,Cogs - Soft Drinks
+5600-153,Cogs - Soft Drinks
+5610-000,Cogs - Soft Drinks - Cafe
+5610-150,Cogs - Soft Drinks - Cafe
+5610-151,Cogs - Soft Drinks - Cafe
+5610-152,Cogs - Soft Drinks - Cafe
+5610-153,Cogs - Soft Drinks - Cafe
+5620-000,Cogs - Coffee/Tea/Espresso
+5620-013,Cogs - Coffee/Tea/Espresso
+5620-150,Cogs - Coffee/Tea/Espresso
+5620-151,Cogs - Coffee/Tea/Espresso
+5620-152,Cogs - Coffee/Tea/Espresso
+5620-153,Cogs - Coffee/Tea/Espresso
+5630-000,Cogs - Coffee/Tea/Espresso - Cafe
+5630-150,Cogs - Coffee/Tea/Espresso - Cafe
+5630-151,Cogs - Coffee/Tea/Espresso - Cafe
+5630-152,Cogs - Coffee/Tea/Espresso - Cafe
+5630-153,Cogs - Coffee/Tea/Espresso - Cafe
+5700-000,Cogs - Bar Food
+5700-013,Cogs - Bar Food
+5700-150,Cogs - Bar Food
+5700-151,Cogs - Bar Food
+5700-152,Cogs - Bar Food
+5700-153,Cogs - Bar Food
+5800-000,Cogs - Beverage
+5800-013,Cogs - Beverage
+5800-150,Cogs - Beverage
+5800-151,Cogs - Beverage
+5800-152,Cogs - Beverage
+5800-153,Cogs - Beverage
+5810-000,Cogs - Employee - Beverage
+5810-013,Cogs - Employee - Beverage
+5810-150,Cogs - Employee - Beverage
+5810-151,Cogs - Employee - Beverage
+5810-152,Cogs - Employee - Beverage
+5810-153,Cogs - Employee - Beverage
+5900-000,Cogs - Comp - POS Beverage
+5900-013,Cogs - Comp - POS Beverage
+5900-150,Cogs - Comp - POS Beverage
+5900-151,Cogs - Comp - POS Beverage
+5900-152,Cogs - Comp - POS Beverage
+5900-153,Cogs - Comp - POS Beverage
+5910-000,Cogs - Comp - Beverage - Cafe
+5910-150,Cogs - Comp - Beverage - Cafe
+5910-151,Cogs - Comp - Beverage - Cafe
+5910-152,Cogs - Comp - Beverage - Cafe
+5910-153,Cogs - Comp - Beverage - Cafe
+5920-000,Cogs - Promo Functions - Beverage
+5920-150,Cogs - Promo Functions - Beverage
+5920-151,Cogs - Promo Functions - Beverage
+5920-152,Cogs - Promo Functions - Beverage
+5920-153,Cogs - Promo Functions - Beverage

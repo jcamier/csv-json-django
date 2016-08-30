@@ -1,0 +1,1427 @@
+[
+    {
+        "gl_desc": "Cogs - Food", 
+        "model": "gl_table", 
+        "gl_acct": "5000-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Fish", 
+        "model": "gl_table", 
+        "gl_acct": "5005-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Fish", 
+        "model": "gl_table", 
+        "gl_acct": "5005-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Fish", 
+        "model": "gl_table", 
+        "gl_acct": "5005-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Fish", 
+        "model": "gl_table", 
+        "gl_acct": "5005-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Fish", 
+        "model": "gl_table", 
+        "gl_acct": "5005-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Fish", 
+        "model": "gl_table", 
+        "gl_acct": "5005-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Shell", 
+        "model": "gl_table", 
+        "gl_acct": "5010-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Shell", 
+        "model": "gl_table", 
+        "gl_acct": "5010-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Shell", 
+        "model": "gl_table", 
+        "gl_acct": "5010-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Shell", 
+        "model": "gl_table", 
+        "gl_acct": "5010-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Shell", 
+        "model": "gl_table", 
+        "gl_acct": "5010-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Seafood - Shell", 
+        "model": "gl_table", 
+        "gl_acct": "5010-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Poultry - Chicken", 
+        "model": "gl_table", 
+        "gl_acct": "5015-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Poultry - Chicken", 
+        "model": "gl_table", 
+        "gl_acct": "5015-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Poultry - Chicken", 
+        "model": "gl_table", 
+        "gl_acct": "5015-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Poultry - Chicken", 
+        "model": "gl_table", 
+        "gl_acct": "5015-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Poultry - Chicken", 
+        "model": "gl_table", 
+        "gl_acct": "5015-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Poultry - Chicken", 
+        "model": "gl_table", 
+        "gl_acct": "5015-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Poultry - Game", 
+        "model": "gl_table", 
+        "gl_acct": "5016-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Poultry - Game", 
+        "model": "gl_table", 
+        "gl_acct": "5016-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Poultry - Game", 
+        "model": "gl_table", 
+        "gl_acct": "5016-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Poultry - Game", 
+        "model": "gl_table", 
+        "gl_acct": "5016-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Poultry - Game", 
+        "model": "gl_table", 
+        "gl_acct": "5016-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Beef", 
+        "model": "gl_table", 
+        "gl_acct": "5020-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Beef", 
+        "model": "gl_table", 
+        "gl_acct": "5020-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Beef", 
+        "model": "gl_table", 
+        "gl_acct": "5020-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Beef", 
+        "model": "gl_table", 
+        "gl_acct": "5020-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Beef", 
+        "model": "gl_table", 
+        "gl_acct": "5020-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Beef", 
+        "model": "gl_table", 
+        "gl_acct": "5020-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Game", 
+        "model": "gl_table", 
+        "gl_acct": "5021-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Game", 
+        "model": "gl_table", 
+        "gl_acct": "5021-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Game", 
+        "model": "gl_table", 
+        "gl_acct": "5021-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Game", 
+        "model": "gl_table", 
+        "gl_acct": "5021-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Game", 
+        "model": "gl_table", 
+        "gl_acct": "5021-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Veal", 
+        "model": "gl_table", 
+        "gl_acct": "5025-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Veal", 
+        "model": "gl_table", 
+        "gl_acct": "5025-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Veal", 
+        "model": "gl_table", 
+        "gl_acct": "5025-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Veal", 
+        "model": "gl_table", 
+        "gl_acct": "5025-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Veal", 
+        "model": "gl_table", 
+        "gl_acct": "5025-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Pork", 
+        "model": "gl_table", 
+        "gl_acct": "5030-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Pork", 
+        "model": "gl_table", 
+        "gl_acct": "5030-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Pork", 
+        "model": "gl_table", 
+        "gl_acct": "5030-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Pork", 
+        "model": "gl_table", 
+        "gl_acct": "5030-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Pork", 
+        "model": "gl_table", 
+        "gl_acct": "5030-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Pork", 
+        "model": "gl_table", 
+        "gl_acct": "5030-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Lamb", 
+        "model": "gl_table", 
+        "gl_acct": "5035-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Lamb", 
+        "model": "gl_table", 
+        "gl_acct": "5035-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Lamb", 
+        "model": "gl_table", 
+        "gl_acct": "5035-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Lamb", 
+        "model": "gl_table", 
+        "gl_acct": "5035-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Meat - Lamb", 
+        "model": "gl_table", 
+        "gl_acct": "5035-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Fresh", 
+        "model": "gl_table", 
+        "gl_acct": "5040-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Fresh", 
+        "model": "gl_table", 
+        "gl_acct": "5040-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Fresh", 
+        "model": "gl_table", 
+        "gl_acct": "5040-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Fresh", 
+        "model": "gl_table", 
+        "gl_acct": "5040-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Fresh", 
+        "model": "gl_table", 
+        "gl_acct": "5040-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Fresh", 
+        "model": "gl_table", 
+        "gl_acct": "5040-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5041-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5041-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5041-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5041-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5041-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5041-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Dried", 
+        "model": "gl_table", 
+        "gl_acct": "5042-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Dried", 
+        "model": "gl_table", 
+        "gl_acct": "5042-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Dried", 
+        "model": "gl_table", 
+        "gl_acct": "5042-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Dried", 
+        "model": "gl_table", 
+        "gl_acct": "5042-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Dried", 
+        "model": "gl_table", 
+        "gl_acct": "5042-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Dried", 
+        "model": "gl_table", 
+        "gl_acct": "5042-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Fresh Truffles", 
+        "model": "gl_table", 
+        "gl_acct": "5043-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Fresh Truffles", 
+        "model": "gl_table", 
+        "gl_acct": "5043-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Fresh Truffles", 
+        "model": "gl_table", 
+        "gl_acct": "5043-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Fresh Truffles", 
+        "model": "gl_table", 
+        "gl_acct": "5043-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Produce - Fresh Truffles", 
+        "model": "gl_table", 
+        "gl_acct": "5043-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Dry Goods", 
+        "model": "gl_table", 
+        "gl_acct": "5045-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Dry Goods", 
+        "model": "gl_table", 
+        "gl_acct": "5045-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Dry Goods", 
+        "model": "gl_table", 
+        "gl_acct": "5045-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Dry Goods", 
+        "model": "gl_table", 
+        "gl_acct": "5045-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Dry Goods", 
+        "model": "gl_table", 
+        "gl_acct": "5045-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Dry Goods", 
+        "model": "gl_table", 
+        "gl_acct": "5045-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Dairy", 
+        "model": "gl_table", 
+        "gl_acct": "5050-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Dairy", 
+        "model": "gl_table", 
+        "gl_acct": "5050-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Dairy", 
+        "model": "gl_table", 
+        "gl_acct": "5050-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Dairy", 
+        "model": "gl_table", 
+        "gl_acct": "5050-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Dairy", 
+        "model": "gl_table", 
+        "gl_acct": "5050-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Dairy", 
+        "model": "gl_table", 
+        "gl_acct": "5050-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5055-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5055-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5055-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5055-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5055-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Frozen", 
+        "model": "gl_table", 
+        "gl_acct": "5055-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Bread", 
+        "model": "gl_table", 
+        "gl_acct": "5060-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Bread", 
+        "model": "gl_table", 
+        "gl_acct": "5060-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Bread", 
+        "model": "gl_table", 
+        "gl_acct": "5060-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Bread", 
+        "model": "gl_table", 
+        "gl_acct": "5060-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Bread", 
+        "model": "gl_table", 
+        "gl_acct": "5060-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Bread", 
+        "model": "gl_table", 
+        "gl_acct": "5060-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Dessert", 
+        "model": "gl_table", 
+        "gl_acct": "5065-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Dessert", 
+        "model": "gl_table", 
+        "gl_acct": "5065-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Dessert", 
+        "model": "gl_table", 
+        "gl_acct": "5065-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Dessert", 
+        "model": "gl_table", 
+        "gl_acct": "5065-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Dessert", 
+        "model": "gl_table", 
+        "gl_acct": "5065-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Bakery - Dessert", 
+        "model": "gl_table", 
+        "gl_acct": "5065-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Cheese", 
+        "model": "gl_table", 
+        "gl_acct": "5070-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Cheese", 
+        "model": "gl_table", 
+        "gl_acct": "5070-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Cheese", 
+        "model": "gl_table", 
+        "gl_acct": "5070-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Cheese", 
+        "model": "gl_table", 
+        "gl_acct": "5070-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Cheese", 
+        "model": "gl_table", 
+        "gl_acct": "5070-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Cheese", 
+        "model": "gl_table", 
+        "gl_acct": "5070-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5075-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5075-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5075-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5075-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5075-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5075-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5076-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5076-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5076-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5076-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5076-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Kitchen Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5076-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepackaged Frozen Products", 
+        "model": "gl_table", 
+        "gl_acct": "5100-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepackaged Frozen Products", 
+        "model": "gl_table", 
+        "gl_acct": "5100-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepackaged Frozen Products", 
+        "model": "gl_table", 
+        "gl_acct": "5100-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepackaged Frozen Products", 
+        "model": "gl_table", 
+        "gl_acct": "5100-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepackaged Frozen Products", 
+        "model": "gl_table", 
+        "gl_acct": "5100-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepared Food Costs - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5105-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepared Food Costs - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5105-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepared Food Costs - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5105-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepared Food Costs - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5105-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepared Food Costs - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5105-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepared Foods - FF/Brunch", 
+        "model": "gl_table", 
+        "gl_acct": "5106-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepared Foods - FF/Brunch", 
+        "model": "gl_table", 
+        "gl_acct": "5106-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepared Foods - FF/Brunch", 
+        "model": "gl_table", 
+        "gl_acct": "5106-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepared Foods - FF/Brunch", 
+        "model": "gl_table", 
+        "gl_acct": "5106-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepared Foods - FF/Brunch", 
+        "model": "gl_table", 
+        "gl_acct": "5106-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepacked Food", 
+        "model": "gl_table", 
+        "gl_acct": "5107-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepacked Food", 
+        "model": "gl_table", 
+        "gl_acct": "5107-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepacked Food", 
+        "model": "gl_table", 
+        "gl_acct": "5107-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepacked Food", 
+        "model": "gl_table", 
+        "gl_acct": "5107-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepacked Food", 
+        "model": "gl_table", 
+        "gl_acct": "5107-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepackaged Food - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5110-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepackaged Food - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5110-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepackaged Food - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5110-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepackaged Food - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5110-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Prepackaged Food - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5110-153"
+    }, 
+    {
+        "gl_desc": "Cogs - DK Catering", 
+        "model": "gl_table", 
+        "gl_acct": "5115-000"
+    }, 
+    {
+        "gl_desc": "Cogs - DK Catering", 
+        "model": "gl_table", 
+        "gl_acct": "5115-150"
+    }, 
+    {
+        "gl_desc": "Cogs - DK Catering", 
+        "model": "gl_table", 
+        "gl_acct": "5115-151"
+    }, 
+    {
+        "gl_desc": "Cogs - DK Catering", 
+        "model": "gl_table", 
+        "gl_acct": "5115-152"
+    }, 
+    {
+        "gl_desc": "Cogs - DK Catering", 
+        "model": "gl_table", 
+        "gl_acct": "5115-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Artisan Catering", 
+        "model": "gl_table", 
+        "gl_acct": "5120-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Artisan Catering", 
+        "model": "gl_table", 
+        "gl_acct": "5120-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Artisan Catering", 
+        "model": "gl_table", 
+        "gl_acct": "5120-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Artisan Catering", 
+        "model": "gl_table", 
+        "gl_acct": "5120-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Artisan Catering", 
+        "model": "gl_table", 
+        "gl_acct": "5120-153"
+    }, 
+    {
+        "gl_desc": "Cogs - GrabnGo Food", 
+        "model": "gl_table", 
+        "gl_acct": "5125-000"
+    }, 
+    {
+        "gl_desc": "Cogs - GrabnGo Food", 
+        "model": "gl_table", 
+        "gl_acct": "5125-150"
+    }, 
+    {
+        "gl_desc": "Cogs - GrabnGo Food", 
+        "model": "gl_table", 
+        "gl_acct": "5125-151"
+    }, 
+    {
+        "gl_desc": "Cogs - GrabnGo Food", 
+        "model": "gl_table", 
+        "gl_acct": "5125-152"
+    }, 
+    {
+        "gl_desc": "Cogs - GrabnGo Food", 
+        "model": "gl_table", 
+        "gl_acct": "5125-153"
+    }, 
+    {
+        "gl_desc": "Cogs - GrabnGo Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5127-000"
+    }, 
+    {
+        "gl_desc": "Cogs - GrabnGo Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5127-150"
+    }, 
+    {
+        "gl_desc": "Cogs - GrabnGo Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5127-151"
+    }, 
+    {
+        "gl_desc": "Cogs - GrabnGo Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5127-152"
+    }, 
+    {
+        "gl_desc": "Cogs - GrabnGo Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5127-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Other Food Costs", 
+        "model": "gl_table", 
+        "gl_acct": "5150-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Other Food Costs", 
+        "model": "gl_table", 
+        "gl_acct": "5150-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Other Food Costs", 
+        "model": "gl_table", 
+        "gl_acct": "5150-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Other Food Costs", 
+        "model": "gl_table", 
+        "gl_acct": "5150-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Other Food Costs", 
+        "model": "gl_table", 
+        "gl_acct": "5150-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Other Food Costs", 
+        "model": "gl_table", 
+        "gl_acct": "5150-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Family Meal Allow", 
+        "model": "gl_table", 
+        "gl_acct": "5200-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Family Meal Allow", 
+        "model": "gl_table", 
+        "gl_acct": "5200-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Family Meal Allow", 
+        "model": "gl_table", 
+        "gl_acct": "5200-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Family Meal Allow", 
+        "model": "gl_table", 
+        "gl_acct": "5200-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Family Meal Allow", 
+        "model": "gl_table", 
+        "gl_acct": "5200-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Family Meal Allow", 
+        "model": "gl_table", 
+        "gl_acct": "5200-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Food", 
+        "model": "gl_table", 
+        "gl_acct": "5210-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Food", 
+        "model": "gl_table", 
+        "gl_acct": "5210-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Food", 
+        "model": "gl_table", 
+        "gl_acct": "5210-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Food", 
+        "model": "gl_table", 
+        "gl_acct": "5210-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Food", 
+        "model": "gl_table", 
+        "gl_acct": "5210-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Food", 
+        "model": "gl_table", 
+        "gl_acct": "5210-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Food - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5220-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Food - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5220-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Food - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5220-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Food - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5220-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Food - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5220-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Promo Functions", 
+        "model": "gl_table", 
+        "gl_acct": "5400-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Promo Functions", 
+        "model": "gl_table", 
+        "gl_acct": "5400-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Promo Functions", 
+        "model": "gl_table", 
+        "gl_acct": "5400-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Promo Functions", 
+        "model": "gl_table", 
+        "gl_acct": "5400-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Promo Functions", 
+        "model": "gl_table", 
+        "gl_acct": "5400-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Promo Functions", 
+        "model": "gl_table", 
+        "gl_acct": "5400-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5500-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5500-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5500-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5500-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5500-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Liquor", 
+        "model": "gl_table", 
+        "gl_acct": "5500-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Liquor - FF Brunch", 
+        "model": "gl_table", 
+        "gl_acct": "5501-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Liquor - FF Brunch", 
+        "model": "gl_table", 
+        "gl_acct": "5501-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Liquor - FF Brunch", 
+        "model": "gl_table", 
+        "gl_acct": "5501-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Liquor - FF Brunch", 
+        "model": "gl_table", 
+        "gl_acct": "5501-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Liquor - FF Brunch", 
+        "model": "gl_table", 
+        "gl_acct": "5501-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Beer", 
+        "model": "gl_table", 
+        "gl_acct": "5510-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Beer", 
+        "model": "gl_table", 
+        "gl_acct": "5510-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Beer", 
+        "model": "gl_table", 
+        "gl_acct": "5510-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Beer", 
+        "model": "gl_table", 
+        "gl_acct": "5510-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Beer", 
+        "model": "gl_table", 
+        "gl_acct": "5510-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Beer", 
+        "model": "gl_table", 
+        "gl_acct": "5510-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Beer - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5520-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Beer - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5520-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Beer - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5520-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Beer - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5520-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Beer - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5520-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5530-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5530-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5530-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5530-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5530-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Wine", 
+        "model": "gl_table", 
+        "gl_acct": "5530-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Wine - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5540-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Wine - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5540-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Wine - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5540-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Wine - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5540-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Wine - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5540-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Soft Drinks", 
+        "model": "gl_table", 
+        "gl_acct": "5600-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Soft Drinks", 
+        "model": "gl_table", 
+        "gl_acct": "5600-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Soft Drinks", 
+        "model": "gl_table", 
+        "gl_acct": "5600-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Soft Drinks", 
+        "model": "gl_table", 
+        "gl_acct": "5600-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Soft Drinks", 
+        "model": "gl_table", 
+        "gl_acct": "5600-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Soft Drinks", 
+        "model": "gl_table", 
+        "gl_acct": "5600-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Soft Drinks - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5610-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Soft Drinks - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5610-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Soft Drinks - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5610-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Soft Drinks - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5610-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Soft Drinks - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5610-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Coffee/Tea/Espresso", 
+        "model": "gl_table", 
+        "gl_acct": "5620-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Coffee/Tea/Espresso", 
+        "model": "gl_table", 
+        "gl_acct": "5620-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Coffee/Tea/Espresso", 
+        "model": "gl_table", 
+        "gl_acct": "5620-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Coffee/Tea/Espresso", 
+        "model": "gl_table", 
+        "gl_acct": "5620-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Coffee/Tea/Espresso", 
+        "model": "gl_table", 
+        "gl_acct": "5620-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Coffee/Tea/Espresso", 
+        "model": "gl_table", 
+        "gl_acct": "5620-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Coffee/Tea/Espresso - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5630-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Coffee/Tea/Espresso - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5630-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Coffee/Tea/Espresso - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5630-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Coffee/Tea/Espresso - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5630-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Coffee/Tea/Espresso - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5630-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Bar Food", 
+        "model": "gl_table", 
+        "gl_acct": "5700-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Bar Food", 
+        "model": "gl_table", 
+        "gl_acct": "5700-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Bar Food", 
+        "model": "gl_table", 
+        "gl_acct": "5700-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Bar Food", 
+        "model": "gl_table", 
+        "gl_acct": "5700-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Bar Food", 
+        "model": "gl_table", 
+        "gl_acct": "5700-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Bar Food", 
+        "model": "gl_table", 
+        "gl_acct": "5700-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5800-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5800-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5800-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5800-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5800-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5800-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Employee - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5810-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Employee - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5810-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Employee - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5810-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Employee - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5810-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Employee - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5810-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Employee - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5810-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5900-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5900-013"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5900-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5900-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5900-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - POS Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5900-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Beverage - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5910-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Beverage - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5910-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Beverage - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5910-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Beverage - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5910-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Comp - Beverage - Cafe", 
+        "model": "gl_table", 
+        "gl_acct": "5910-153"
+    }, 
+    {
+        "gl_desc": "Cogs - Promo Functions - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5920-000"
+    }, 
+    {
+        "gl_desc": "Cogs - Promo Functions - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5920-150"
+    }, 
+    {
+        "gl_desc": "Cogs - Promo Functions - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5920-151"
+    }, 
+    {
+        "gl_desc": "Cogs - Promo Functions - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5920-152"
+    }, 
+    {
+        "gl_desc": "Cogs - Promo Functions - Beverage", 
+        "model": "gl_table", 
+        "gl_acct": "5920-153"
+    }
+]
