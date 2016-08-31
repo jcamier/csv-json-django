@@ -1,0 +1,4 @@
+1) create model class in Django
+2) makemigrations, migrate steps
+3) add directory called "fixtures" under django app folder
+4) type in terminal python manage.py loaddata converted_file.json (filename.json)
