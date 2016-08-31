@@ -2,10 +2,11 @@ import csv
 import json
 
 # https://docs.python.org/2/library/csv.html
-
-with open('gl_table.csv') as csvfile:
+file_name = 'gl_table.csv'
+with open(file_name) as csvfile:
     csvfile = csv.DictReader(csvfile)
-    model_name = 'gl_table'
+    app_name = 'myapp'
+    model_name = 'GlTable'
     field_1 = 'gl_acct'
     field_2 = 'gl_desc'
     x = 0
@@ -13,7 +14,7 @@ with open('gl_table.csv') as csvfile:
     for each in csvfile:
         x += 1
         row = {}
-        row = {'model': model_name, 'pk': x, 'fields': ({field_1: each['gl_acct'], field_2: each['gl_desc']})}
+        row = {'model': app_name+'.'+model_name, 'pk': x, 'fields': ({field_1: each[field_1], field_2: each[field_2]})}
         output.append(row)
     json.dump(output, open('converted_file.json','w'), indent=4, sort_keys=False)
 
