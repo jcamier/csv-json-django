@@ -2,13 +2,13 @@ import csv
 import json
 
 # https://docs.python.org/2/library/csv.html
-file_name = 'gl_table.csv'
+file_name = 'gl_table.csv' # use the csv file that you are trying to upload
 with open(file_name) as csvfile:
     csvfile = csv.DictReader(csvfile)
-    app_name = 'myapp'
-    model_name = 'GlTable'
-    field_1 = 'gl_acct'
-    field_2 = 'gl_desc'
+    app_name = 'myapp' # change this to your Django app name
+    model_name = 'GlTable' # the name of you Django model
+    field_1 = 'gl_acct' # the name of first field
+    field_2 = 'gl_desc' # the name of second field
     x = 0
     output = []
     for each in csvfile:
